@@ -6,8 +6,8 @@ This repository contains two beginner-level Python programs completed as part of
 ---
 
 ## Files in This Repository
-- **sample.py** – Performs basic mathematical operations on two numbers &Generates a personalized greeting based on user input.
-
+- **sample1.py** – Performs basic mathematical operations on two numbers.
+- **sample2.py** – Generates a personalized greeting based on user input.
 ---
 
 ## Task Details
